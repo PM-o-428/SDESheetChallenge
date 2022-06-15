@@ -1,3 +1,7 @@
+#Solution - 2
+# https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?topList=striver-sde-sheet-problems
+# Challege Start Date - 04.06.2022
+# Date - 09.06.2022
 from os import *
 from sys import *
 from collections import *
