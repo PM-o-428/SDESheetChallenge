@@ -1,3 +1,7 @@
+# Solution - 6
+# Problem Link - https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602?topList=striver-sde-sheet-problems&leftPanelTab=1
+# Challege Start Date - 04.06.2022
+# Date - 17.06.2022
 mat = [[90]]
 target = 90
 m=1
