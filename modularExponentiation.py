@@ -1,5 +1,5 @@
 # Solution - 7
-# Problem Link - https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602?topList=striver-sde-sheet-problems&leftPanelTab=1
+# Problem Link - https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146?topList=striver-sde-sheet-problems
 # Challege Start Date - 04.06.2022
 # Date - 18.06.2022
 from os import *
