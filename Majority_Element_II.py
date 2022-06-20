@@ -10,6 +10,6 @@ for i in arr:
     else:
         dict.update({i:1})
 max_ele=[]
-for i in dict:
+for i in dict: #Iterating dictionary keys
     if dict[i]>(len(arr)//3): max_ele.append(i)
 print(max_ele,sep=' ')
