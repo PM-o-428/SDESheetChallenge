@@ -1,7 +1,7 @@
 # Solution - 14
 # Problem Link - https://www.codingninjas.com/codestudio/problems/1062658?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
 # Challege Start Date - 04.06.2022
-# Date - 25.06.2022
+# Date - 27.06.2022
 # Day 21
 start = [4, 1, 5, 7, 9, 6, 7, 2, 1, 8]
 end=[14, 11, 18, 10, 19, 19, 14, 18, 7, 16]
