@@ -1,8 +1,8 @@
 # Solution - 27
 # Problem Link - https://bit.ly/33wlWxk & https://leetcode.com/problems/3sum/
 # Challege Start Date - 04.06.2022
-# Date - 05.07.2022
-# Day 29
+# Date - 06.07.2022
+# Day 30
 arr=[209, -240, 125, 25, 24, 12, 12, -300, 246, 11, 10, 1, -180, 7]
 n=len(arr)
 k=-30
