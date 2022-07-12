@@ -14,7 +14,7 @@ def func(arr,index,ans,temp,k):
     for i in range(index,len(arr)):
         if i!=index and arr[i]==arr[i-1]: # Check for duplicate element
             continue
-        if arr[i]>k: break
+        if arr[i]>k: break      # As the arr is sorted; if an element exceeds curr_target the loop will be broke
         temp.append(arr[i])     #Append Curr element
         func(arr,i+1,ans,temp,k-arr[i])  # Start Recursion for updating ans & adding next elements in the next subset
         temp.pop(len(temp)-1)
