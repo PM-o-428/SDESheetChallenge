@@ -38,12 +38,14 @@ def ratInAMaze(maze, n):
         flag[i]=[0]*n
     findways(maze,flag,ans,temp,0,0,dR,dC)
     # Printing ans 2-D list as string
-    s=''
+    # s=''
     for i in range(len(ans)):
         for j in range(len(ans[i])):
-            s=s+' '+str(ans[i][j])
-        print(s.lstrip())
-        s=''
+            # s=s+' '+str(ans[i][j])
+            print(ans[i][j],end=' ')
+        # print(s.lstrip())
+        #s=''
+        print()
     return
 
 # Main.
